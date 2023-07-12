@@ -1,10 +1,6 @@
 {
   "hello":{
-      "string":"Hello!"
-  },
-"contact":{
-      "string":"Contact!!",
-      "context":"Comment 1"
+      "string":"Hello!",
   }
 }
   
