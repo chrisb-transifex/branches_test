@@ -1,9 +1,9 @@
 {
   "hello":{
-      "string": "Hello!"
+      "string":"Hello!"
   },
 "contact":{
-      "string": "Contact!!"
+      "string":"Contact!!"
   }
 }
   
