@@ -1,13 +1,13 @@
 {
-    "greeting": "Hello!",
-    "menu": {
-      "home": "Home",
-      "about": "About",
-      "services": "Services",
-      "contact": "Contact",
-      "blog": "Blog" // New menu item
-    },
-    "welcomeMessage": "Welcome to our website!",
-    "intro": "We offer top-notch services to our clients.", // New string
-    "footer": "All rights reserved. © 2023 Our Company" // Updated footer
+  "hello":{
+    {
+      "string": "Hello!"
+    }
+  },
+"contact":{
+    {
+      "string": "Contact!!"
+    }
   }
+}
+  
