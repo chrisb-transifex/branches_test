@@ -4,9 +4,10 @@
       "home": "Home",
       "about": "About",
       "services": "Services",
-      "contact": "Contact"
+      "contact": "Contact",
+      "blog": "Blog" // New menu item
     },
     "welcomeMessage": "Welcome to our website!",
-    "footer": "All rights reserved."
+    "intro": "We offer top-notch services to our clients.", // New string
+    "footer": "All rights reserved. © 2023 Our Company" // Updated footer
   }
-  
