@@ -1,0 +1,12 @@
+{
+    "greeting": "Hola",
+    "menu": {
+      "home": "Inicio",
+      "about": "Acerca de",
+      "services": "Servicios",
+      "contact": "Contacto"
+    },
+    "welcomeMessage": "¡Bienvenido a nuestro sitio web!",
+    "footer": "Todos los derechos reservados!"
+  }
+  
