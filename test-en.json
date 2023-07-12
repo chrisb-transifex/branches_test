@@ -1,12 +1,36 @@
 {
-    "greeting":"Hello!",
-    "menu":{
-      "home":"Home",
-      "about":"About",
-      "services":"Services",
-      "contact":"Contact"
+  "translations": [
+    {
+      "id": 1,
+      "source": "Hello",
+      "french": "Bonjour",
+      "spanish": "Hola"
     },
-    "welcomeMessage":"Welcome to our website!",
-    "footer":"All rights reserved."
+    {
+      "id": 2,
+      "source": "Goodbye",
+      "french": "Au revoir",
+      "spanish": "Adiós"
+    },
+    {
+      "id": 3,
+      "source": "Thank you",
+      "french": "Merci",
+      "spanish": "Gracias"
+    },
+    {
+      "id": 4,
+      "source": "Yes",
+      "french": "Oui",
+      "spanish": "Sí"
+    },
+    {
+      "id": 5,
+      "source": "No",
+      "french": "Non",
+      "spanish": "No"
+    }
+  ]
 }
+
   
