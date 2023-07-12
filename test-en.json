@@ -1,13 +1,6 @@
 {
   "hello":{
-    {
       "string": "Hello"
-    }
-  },
-"contact":{
-    {
-      "string": "Contact"
-    }
   }
 }
   
