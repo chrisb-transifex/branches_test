@@ -1,0 +1,12 @@
+{
+    "greeting": "Hello!",
+    "menu": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "contact": "Contact"
+    },
+    "welcomeMessage": "Welcome to our website!",
+    "footer": "All rights reserved."
+  }
+  
