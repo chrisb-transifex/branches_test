@@ -1,5 +1,5 @@
 {
-    "greeting": "Bonjour!",
+    "greeting": "Bonjour",
     "menu": {
       "home": "Accueil",
       "about": "À propos",
@@ -7,6 +7,6 @@
       "contact": "Contact"
     },
     "welcomeMessage": "Bienvenue sur notre site web !",
-    "footer": "Tous droits réservés."
+    "footer": "Tous droits réservés!"
   }
   
