@@ -1,11 +1,11 @@
 {
-  "greeting": "Bonjour!",
-  "menu": {
-    "home": "Accueil",
-    "about": "À propos",
-    "services": "Services",
-    "contact": "Contact"
-  },
-  "welcomeMessage": "Bienvenue sur notre site web !",
-  "footer": "Tous droits réservés."
-}
+    "greeting": "Bonjour",
+    "menu": {
+      "home": "Accueil",
+      "about": "À propos",
+      "services": "Services",
+      "contact": "Contact"
+    },
+    "welcomeMessage": "Bienvenue sur notre site web !",
+    "footer": "Tous droits réservés!"
+  }
