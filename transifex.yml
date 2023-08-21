@@ -1,7 +1,7 @@
 git:
    filters:
-        - filter_type: dynamic
+        - filter_type: file
           file_format: KEYVALUEJSON
           source_language: en
-          source_files_expression: <file>.json
-          translation_files_expression: translations/<file>.json
+          source_files_expression: test-en.json
+          translation_files_expression: translations/test-<lang>.json
