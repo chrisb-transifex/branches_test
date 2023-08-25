@@ -6,6 +6,8 @@
       "string":"This is a regular string 2."
    },
    "total_files":{
+=======
+     "total_files":{
       "string":"{ file_count, plural, one {You have {file_count} file.} other {You have {file_count}files.} }",
       "context":"Additional context:....."
    },
