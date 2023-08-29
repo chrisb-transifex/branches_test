@@ -4,5 +4,14 @@
    },
    "singular_key2":{
       "string":"This is a regular string 2."
+   },
+   "singular_key3":{
+      "string":"This is a regular string 3."
+   },
+   "singular_key4":{
+      "string":"This is a regular string 4."
+   },
+   "singular_key5":{
+      "string":"This is a regular string 5."
    }
 }
