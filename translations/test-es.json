@@ -4,5 +4,8 @@
    },
    "singular_key2":{
       "string":"Esta es una cadena normal 2!"
+   },
+   "singular_key3":{
+      "string":"Esta es una cadena normal 3."
    }
 }
