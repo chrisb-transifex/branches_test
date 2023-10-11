@@ -4,5 +4,8 @@
    },
    "singular_key2":{
       "string":"This is a regular string 2!"
+   },
+   "singular_key3":{
+      "string":"This is a regular string 3."
    }
 }
