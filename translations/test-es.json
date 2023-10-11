@@ -1,11 +1,11 @@
 {
-    "greeting": "¡Hola!",
-    "menu": {
-      "home": "Inicio",
-      "about": "Acerca de",
-      "services": "Servicios",
-      "contact": "Contacto"
-    },
-    "welcomeMessage": "¡Bienvenido a nuestro sitio web!",
-    "footer": "Todos los derechos reservados."
-  }
+   "singular_key":{
+      "string":"Se trata de una cadena normal."
+   },
+   "singular_key2":{
+      "string":"Esta es una cadena normal 2!"
+   },
+   "singular_key3":{
+      "string":"Esta es una cadena normal 3."
+   }
+}
