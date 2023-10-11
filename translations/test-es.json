@@ -1,8 +1,11 @@
 {
    "singular_key":{
-      "string":""
+      "string":"Se trata de una cadena normal."
    },
    "singular_key2":{
-      "string":""
+      "string":"Esta es una cadena normal 2."
+   },
+   "singular_key3":{
+      "string":"Esta es una cadena normal 3."
    }
 }
