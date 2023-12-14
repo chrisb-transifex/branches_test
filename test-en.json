@@ -1,10 +1,4 @@
 {
-   "singular_key":{
-      "string":"This is a regular string."
-   },
-   "singular_key2":{
-      "string":"This is a regular string 2."
-   },
    "singular_key3":{
       "string":"This is a regular string 3.1"
    },
@@ -16,5 +10,8 @@
    },
    "singular_key6":{
       "string":"This is a regular string 6!#"
+   },
+   "singular_key7":{
+      "string":"This is a regular string 7!#"
    }
 }
