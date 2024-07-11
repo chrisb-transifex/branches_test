@@ -1,20 +1,17 @@
 {
-   "singular_key":{
-      "string":"Se trata de una cadena normal."
-   },
-   "singular_key2":{
-      "string":"Esta es una cadena normal 2."
-   },
    "singular_key3":{
-      "string":"Esta es una cadena normal 3.1"
+      "string":"Esta es una cadena normal 3.1!!!!!"
    },
    "singular_key4":{
       "string":"Esta es una cadena normal 4.2"
    },
    "singular_key5":{
-      "string":"Esta es una cadena normal 5.2"
+      "string":"Esta es una cadena regular 5.2"
    },
    "singular_key6":{
-      "string":"¡Esta es una cadena normal de 6! #"
+      "string":"¡Esta es una cadena 6 normal! #"
+   },
+   "singular_key7":{
+      "string":"¡Esta es una cadena 7 normal! # change"
    }
 }
