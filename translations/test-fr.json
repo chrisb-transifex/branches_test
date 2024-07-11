@@ -1,12 +1,6 @@
 {
-   "singular_key":{
-      "string":"Il s'agit d'une chaîne normale."
-   },
-   "singular_key2":{
-      "string":"Il s'agit d'une chaîne normale 2."
-   },
    "singular_key3":{
-      "string":"Il s'agit d'une chaîne normale 3.1"
+      "string":"Il s'agit d'une chaîne normale 3.1!!!!!"
    },
    "singular_key4":{
       "string":"Il s'agit d'une chaîne normale 4.2"
@@ -16,5 +10,8 @@
    },
    "singular_key6":{
       "string":"Il s'agit d'une chaîne 6 normale ! #"
+   },
+   "singular_key7":{
+      "string":"Il s'agit d'une chaîne 7 normale ! #"
    }
 }
