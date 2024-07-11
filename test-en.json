@@ -13,5 +13,8 @@
    },
    "singular_key7":{
       "string":"This is a regular string 7!#"
+   },
+   "singular_key8":{
+      "string":"This is a regular string 8!#"
    }
 }
