@@ -1,0 +1,20 @@
+{
+   "singular_key3":{
+      "string":"Dies ist eine reguläre Zeichenfolge 3.1"
+   },
+   "singular_key4":{
+      "string":"Dies ist eine reguläre Zeichenfolge 4.2"
+   },
+   "singular_key5":{
+      "string":"Dies ist eine reguläre Zeichenfolge 5.2"
+   },
+   "singular_key6":{
+      "string":"Das ist eine reguläre Zeichenfolge 6! #"
+   },
+   "singular_key7":{
+      "string":"Das ist eine reguläre Zeichenfolge 7! #"
+   },
+   "singular_key8":{
+      "string":"Das ist eine reguläre Zeichenfolge 8! #"
+   }
+}
