@@ -1,7 +1,0 @@
-git:
-   filters:
-        - filter_type: dynamic
-          file_format: JSON
-          source_language: en
-          source_files_expression: <dir>/.<file>.json
-          translation_files_expression: '<dir>/<lang>/<lang>.<file>.json'
