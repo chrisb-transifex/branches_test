@@ -1,8 +1,8 @@
 {
    "singular_key3":{
-      "string":"Il s'agit d'une chaîne standard 2.3.1 ! !"
+      "string":"Il s'agit "
    },
    "singular_key4":{
-      "string":"Il s'agit d'une chaîne standard 2.4.2"
+      "string":"Il s'agitstandard 2.4.2"
    }
 }
