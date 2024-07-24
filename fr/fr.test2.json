@@ -1,8 +1,8 @@
 {
    "singular_key1":{
-      "string":"C'est une chaîne normale !"
+      "stringV.2":"C'est une chaîne normale !"
    },
    "singular_key2":{
-      "string":"Il s'agit d'une chaîne normale."
+      "string":"Il s'agit d'une chaîne régulière mise à jour"
    }
 }
