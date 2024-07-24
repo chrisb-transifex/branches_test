@@ -1,8 +1,8 @@
 {
    "singular_key1":{
-      "string":"This is a regular string!"
+      "stringV.2":"This is a regular string!"
    },
    "singular_key2":{
-      "string":"This is a regular string."
+      "string":"This is a regular string updated"
    }
 }
