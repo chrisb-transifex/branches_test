@@ -1,8 +1,8 @@
 {
-   "singular_key32":{
-      "string1":"This is a regular string 2.3.1!!"
+   "singular_key1":{
+      "string":"This is a regular string!"
    },
-   "singular_key41":{
-      "string":"This is a regular string 2.4.2"
+   "singular_key2":{
+      "string":"This is a regular string."
    }
 }
