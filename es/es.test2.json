@@ -1,8 +1,8 @@
 {
-   "singular_key32":{
-      "string1":"ena normal 2.3.1!"
+   "singular_key1":{
+      "string":"¡Esta es una cadena normal!"
    },
-   "singular_key41":{
-      "string":"Semal 2.4.2"
+   "singular_key2":{
+      "string":"Se trata de una cadena normal."
    }
 }
