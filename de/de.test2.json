@@ -1,8 +1,8 @@
 {
-   "singular_key3":{
-      "string":"Das ist eine reguläre Zeichenfolge 2.3.1!!"
+   "singular_key1":{
+      "stringV.2":"Das ist eine normale Zeichenfolge!"
    },
-   "singular_key4":{
-      "string":"Dies ist eine reguläre Zeichenfolge 2.4.2"
+   "singular_key2":{
+      "string":"Dies ist eine reguläre aktualisierte Zeichenfolge"
    }
 }
