@@ -1,1 +1,6 @@
-
+filters:
+- filter_type: file
+  file_format: JSON
+  source_file: demo_resource_en.po
+  source_language: en
+  translation_files_expression: 'Translations/<lang>/'
