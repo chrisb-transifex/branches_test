@@ -1,6 +1,6 @@
 filters:
 - filter_type: file
-  file_format: KEYVALUEJSON
-  source_file: gittest_demo-resource_en.json
+  file_format: VTT
+  source_file: test.vtt
   source_language: en
   translation_files_expression: 'Translations/<lang>/'
