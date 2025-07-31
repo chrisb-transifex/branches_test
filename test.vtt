@@ -1,16 +1,16 @@
 WEBVTT
 
 00:00:00.000 --> 00:00:02.000
-Hello, this is the first line.
+First Name
 
 00:00:02.500 --> 00:00:05.000
-And here comes the second one.
+Last Name  
 
 00:00:05.500 --> 00:00:07.000
-Finally, the third line appears.
+Email Address
 
 00:00:08.500 --> 00:00:09.000
-Fourth Line for testing.
+Transifex
 
 00:00:010.500 --> 00:00:11.000
 Fifth Line for testing.
