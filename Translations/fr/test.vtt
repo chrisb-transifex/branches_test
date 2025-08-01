@@ -1,26 +1,13 @@
 WEBVTT
 
 00:00:00.000 --> 00:00:02.000
-First Name 
+Bonjour, ceci est la première ligne.
 
 00:00:02.500 --> 00:00:05.000
-Last Name   
+Et voici le deuxième.
 
 00:00:05.500 --> 00:00:07.000
-Email Address 
+Finally, the third line appears.
 
 00:00:08.500 --> 00:00:09.000
-Sixth Line for testing.
-
-00:00:010.500 --> 00:00:11.000
-Seventh Line for testing.
-
-
-
-
-
-00:00:013.500 --> 00:00:14.000
-Eight Line for testing.
-
-00:00:015.500 --> 00:00:16.000
-Sixth Line for testing.
+Fourth Line for testing.
