@@ -1,4 +1,4 @@
-WEBVTT!
+WEBVTT! Additonal
 
 00:00:00.000 --> 00:00:02.000
 Vorname - edit
@@ -7,7 +7,7 @@ Vorname - edit
 Nachname - edit  
 
 00:00:05.500 --> 00:00:07.000
-E-Mail-Adresse edit
+E-Mail-Adresse Edited Before Opening a PR request
 
 00:00:08.500 --> 00:00:09.000
 Fifth Line for testing. -edit
