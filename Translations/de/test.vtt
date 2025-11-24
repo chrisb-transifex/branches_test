@@ -1,5 +1,4 @@
-WEBVTT! Additional 3rd
-WEBVTT! Additonal
+WEBVTT! Edited before the PR request. Does not affect Source content
 
 00:00:00.000 --> 00:00:02.000
 Vorname - edit
@@ -24,4 +23,4 @@ edit
 Eight Line for testing.
 
 00:00:015.500 --> 00:00:16.000
-Fifth Line for testing. Edited before creating the PR in Github
+Fifth Line for testing.
