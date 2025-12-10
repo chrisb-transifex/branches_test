@@ -1,0 +1,30 @@
+<?xml version="1.0" ?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="global.xml" source-language="en" datatype="plaintext" target-language="de">
+    <body>
+      <trans-unit id="button.submit">
+        <source>Submit</source>
+        <target>Submit</target>
+      </trans-unit>
+
+      <trans-unit id="message.welcome">
+        <source>Welcome, {0}!</source>
+        <target>Welcome, {0}!</target>
+      </trans-unit>
+
+      <trans-unit id="tooltip.save">
+        <source>Save your changes</source>
+        <target>Save your changes</target>
+      </trans-unit>
+      
+      <trans-unit id="link.home">
+        <source>Home</source>
+        <target>Home</target>
+      </trans-unit>
+      
+      <trans-unit id="description.terms">
+        <source>Please read and agree to the terms and conditions.</source>
+        <target>Please read and agree to the terms and conditions.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
