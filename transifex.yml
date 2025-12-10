@@ -4,3 +4,8 @@ filters:
   source_file: test.vtt
   source_language: en
   translation_files_expression: 'Translations/<lang>/'
+- filter_type: file
+  file_format: XLIFF
+  source_file: test.xliff
+  source_language: en
+  translation_files_expression: 'test-<lang>.xliff'
