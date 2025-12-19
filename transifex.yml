@@ -9,3 +9,8 @@ filters:
   source_file: test.xliff
   source_language: en
   translation_files_expression: 'test-<lang>.xliff'
+- filter_type: file
+  file_format: KEYVALUEJSON
+  source_file: test2.json
+  source_language: en
+  translation_files_expression: 'test2-<lang>.json'
