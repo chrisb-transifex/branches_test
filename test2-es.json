@@ -3,6 +3,6 @@
       "stringV.2":"\"\"t \"t1\". \" \" \" '' \""
    },
    "singular_key2":{
-      "string":"\"t2\""
+      "string":"The programmer noticed that the \"straight quotes\" in the code didn't look as elegant as the “curly quotes”"
    }
 }
