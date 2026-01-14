@@ -1,0 +1,8 @@
+{
+   "singular_key1":{
+      "stringV.2":"\"Translation\""
+   },
+   "singular_key2":{
+      "string":"\\\"Translation\\\""
+   }
+}
