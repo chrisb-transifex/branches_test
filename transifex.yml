@@ -5,10 +5,10 @@ filters:
   source_language: en
   translation_files_expression: 'Translations/<lang>/'
 - filter_type: file
-  file_format: XLIFF
-  source_file: test.xliff
+  file_format: PROPERTIES
+  source_file: test.properties
   source_language: en
-  translation_files_expression: 'test-<lang>.xliff'
+  translation_files_expression: 'test-<lang>.properties'
 - filter_type: file
   file_format: KEYVALUEJSON
   source_file: test2.json
