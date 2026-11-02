@@ -10,13 +10,17 @@
         <source>Welcome, {0}!</source>
       </trans-unit>
 
+      <trans-unit id="message.welcome">
+        <source>Welcome, {0}!</source>
+      </trans-unit>
+
       <trans-unit id="tooltip.save">
         <source>Save your changes</source>
       </trans-unit>
       
-      <trans-unit id="link.home">
+      trans-unit id="link.home">
         <source>Home</source>
-      </trans-unit>
+      </trans-unit
       
       <trans-unit id="description.terms">
         <source>Please read and agree to the terms and conditions.</source>
