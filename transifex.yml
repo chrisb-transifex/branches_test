@@ -3,3 +3,4 @@ filters:
   file_format: XLIFF
   source_file: test.xliff
   source_language: en
+  translation_files_expression: Translations/test_<lang>.xliff
