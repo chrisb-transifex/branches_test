@@ -1,14 +1,5 @@
 filters:
 - filter_type: file
-  file_format: VTT
-  source_file: test.vtt
+  file_format: XLIFF
+  source_file: test.xliff
   source_language: en
-  translation_files_expression: 'Translations/<lang>/'- filter_type: file
-  file_format: PROPERTIES
-  source_file: test.properties
-  source_language: en
-  translation_files_expression: 'test-<lang>.properties'- filter_type: file
-  file_format: KEYVALUEJSON
-  source_file: test2.json
-  source_language: en
-  translation_files_expression: 'test2-<lang>.json'
